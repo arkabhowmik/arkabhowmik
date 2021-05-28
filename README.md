@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Arka Bhowmik @arkabhowmik
+- 👀 I’m interested in `Product Management`, `WordPress`, `web` and `mobile app` development
+- 🌱 I’m currently learning `React Native`
+- 💞️ I’m looking to collaborate on `app development` and `product management`
+- 📫 How to reach me - hello@arkabhowmik.in | hello@uiclan.com
